@@ -1,2 +1,2 @@
-# react-paypal
+# paypal-integration
 Created with CodeSandbox
